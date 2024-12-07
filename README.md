@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Demo
-**Live Demo:** [EPasal Demo](https://your-demo-link.com)  
+**Live Demo:** [EPasal Demo](https://ecomm-geektech.netlify.app/)  
 **Figma Design:** [Figma Link](https://www.figma.com/design/GbHfxkm98xXjTaGWav44Po/Ecommerce-UI-Design?node-id=0-1&t=6izekgTBKOsx8xxh-1)  
 
 ---
